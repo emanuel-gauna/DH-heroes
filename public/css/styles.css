@@ -1,0 +1,7 @@
+.textoCentrado{/*les asignamos clase con class="...." en html y le damos estilo externamente  */
+    text-align: center;/* texto centrado*/
+    text-shadow: 3px 5px 5px blue;/*texto sombreado azul*/
+text-decoration: overline underline;/*techado y subrayado*/
+font-family: cursive;/*tipo de fuente de letra*/
+}
+
